@@ -125,3 +125,6 @@ Software Engineer | React & Angular Dev
 
 This component is open-source and free to use.
 
+
+### below is english certificate image 
+        Modal\public\EF SET Certificate.pdf
