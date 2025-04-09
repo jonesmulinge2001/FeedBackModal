@@ -112,7 +112,6 @@ Currently, this component is **self-contained** and does not accept any props. Y
 - Submit feedback to backend API
 - Add animations with Framer Motion
 
----
 
 ## 🧑‍💻 Author
 
@@ -126,5 +125,5 @@ Software Engineer | React & Angular Dev
 This component is open-source and free to use.
 
 
-### below is english certificate image 
+### below is EF SET Certificate pdf relative path
         Modal\public\EF SET Certificate.pdf
