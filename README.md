@@ -125,5 +125,5 @@ Software Engineer | React & Angular Dev
 This component is open-source and free to use.
 
 
-### below is EF SET Certificate pdf relative path
+### Below is EF SET Certificate pdf relative path (Where to find my EF SET Certificate Results)
         Modal\public\EF SET Certificate.pdf
